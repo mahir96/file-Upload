@@ -1,0 +1,16 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "file upload",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahir",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "multer": "^1.4.2"
+  }
+}
